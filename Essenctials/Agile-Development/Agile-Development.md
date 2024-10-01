@@ -29,3 +29,7 @@ ___
 ## Como realmente funciona?
 
 Tendo esses conceitos em mente, podemos esclarecer como a abordagem funciona, para isso, vamos analizar o método _**Scrum**_ que aborda todos os conceitos da imagem acima e torna tudo mais claro.
+
+[Voltar ⬅️](../)
+
+[Voltar ao inicio 🔙](../../README.md) 

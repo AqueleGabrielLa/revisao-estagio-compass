@@ -54,3 +54,7 @@ Mal-intencionados utilizam de recursos eficientes contras as vítimas, são exem
 - Dumpster Diving:
   - Em casos de descuido no descarte de informações, pode ocorrer vazamento de informações valiosas de empresas a partir de discos, planilhas ou relatórios descartados, sejam físicos ou digitais;
   - Raros casos, mas ainda assim existem.
+
+[Voltar ⬅️](../)
+
+[Voltar ao inicio 🔙](../../README.md) 

@@ -19,7 +19,7 @@ Nesta sessão é explicada cada parte do funcionamento do Scrum, de acordo com a
 ---
 
 ## Pessoas 🧑‍🤝‍🧑
-A dinâmica do Scrum é dividida atribuindo funcionalidades ào time Scrum, são elas:
+A dinâmica do Scrum é dividida atribuindo funcionalidades ao time Scrum, são elas:
 ### Scrum Master 👩‍💼
 - Amplo conhecimento em Scrum;
 - Apoia toda a dinâmica do Scrum, auxiliando o time Scrum e o cliente;
@@ -80,3 +80,7 @@ As Sprint Review são avaliações sobre o **produto**, enquanto as Sprint Retro
 ## Finalização 🧐
 
 Seguindo toda essa estruturação, podemos dizer que o Scrum permite um desenvolvimento de projeto muito Transparente, Controlável e Adaptável, assim como seus pilares prezam. 
+
+[Voltar ⬅️](../)
+
+[Voltar ao inicio 🔙](../../README.md) 

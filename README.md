@@ -17,7 +17,15 @@ ___
 
 ## Organização
 
-Este repositório será organizado em diretórios contendo arquivos de resumos, contendo as informações que julguei essenciais para o entendimento dos tópicos apresentados durante o Estágio.
+Este repositório será organizado em diretórios que represenam os segmentos apresentados no estágio, dentro deles há diretórios contendo os resumos, possuindo as informações que julguei essenciais para o entendimento dos tópicos apresentados durante o Estágio.
 
-- [ ] Diretórios com tema
-  - [x] Arquivos relacionados ao tema
+- [ ] Diretórios dos Segmentos 📂
+  - [ ] Diretórios sobre um tema expecifico 📂
+    - [x] Arquivos relacionados ao tema 📑
+
+---
+
+## Links 📌
+
+1. Primeiro Segmento: 
+   - 📍 [Basics for Teamwork and Agile Development](/Essenctials/)
