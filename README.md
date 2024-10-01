@@ -28,4 +28,6 @@ Este repositório será organizado em diretórios que represenam os segmentos ap
 ## Links 📌
 
 1. Primeiro Segmento: 
-   - 📍 [Basics for Teamwork and Agile Development](/Essenctials/)
+   - 📍 [Basics for Teamwork and Agile Development](/Essentials/)
+2. Segundo Segmento:
+   - 📍 [Blockchain Basics](/Blockchain-Basics/)
