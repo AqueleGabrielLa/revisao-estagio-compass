@@ -67,6 +67,6 @@ Diante disso, cada usuário, ou nó da rede(computador conectado) pode analisar 
 ## Mas como a _Blockchain_ pode ser implementada? 🤔
 Para isso, podemos analisar como o próprio Bitcoin funciona, pois lá veremos como uma _Blockchain_ pode ser usada para criar mecanismos interessantes na área de desenvolvimento, utilizando de todos os conceitos que foi explicado aqui. Te vejo no resumo sobre [Bitcoin](/Blockchain-Basics/Bitcoin.md). 😉
 
-[Voltar ⬅️](Bitcoin.md)
+[Voltar ⬅️](../Blockchain-Basics/)
 
-[Voltar ao inicio 🔙](../README.md) 
+[Voltar ao início 🔙](../README.md) 
